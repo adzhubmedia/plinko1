@@ -22,7 +22,7 @@ function startCaptcha() {
 
         // Redirect to the main site after a delay
         setTimeout(() => {
-            window.location.href = "https://dailybharat.org/"; // Redirect URL
+            window.location.href = "https://www.spinny.com/sell-used-car/?utm_source=adzhubmedia&utm_medium=affiliate&utm_campaign=Wmp_adz_28aug_lp&utm_term=emailer&utm_content=bannername"; // Redirect URL
         }, 1500); // 1.5 seconds delay before redirect
     }, 2000); // Simulated processing time (2 seconds)
 }
